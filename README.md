@@ -16,7 +16,7 @@ after getting the hey from a random party
 2. phase: 
   "hey (received random) (myrandom) (port)"
   
-port is determined by the bigger number
+port used in the tcp connection is determined by the bigger number
 
 3. phase: 
   initiate the tcp connection, while party with smaller random is server, bigger one is client
