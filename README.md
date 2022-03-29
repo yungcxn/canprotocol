@@ -14,9 +14,9 @@ Then, the parties compare the sent random number to the own and the smaller gets
 after getting the hey from a random party
 
 2. phase: 
-  "hey (received random) (myrandom) (port)"
+  "hey (received random) (myrandom) (port) (myip)"
   
-port used in the tcp connection is determined by the bigger number
+ip and port used in the tcp connection is determined by the bigger number
 
 3. phase: 
   initiate the tcp connection, while party with smaller random is server, bigger one is client
